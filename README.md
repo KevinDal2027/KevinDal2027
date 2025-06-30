@@ -2,7 +2,7 @@
 
 🎓 Computer Science Co-op Student @ Dalhousie University  
 💼 IT and Systems Technician @ Dalhousie ITS  
-🔧 I specialize in virtualization, system automation, and cloud infrastructure — with a growing passion for cybersecurity.
+🔧 I specialize in virtualization, system automation — with a growing passion for cybersecurity.
 
 ---
 
