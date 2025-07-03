@@ -54,3 +54,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kevin-nguyen-dal)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/KevinDal2027)
 [![Email](https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kv375322@dal.ca)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KevinDal2027)](https://git.io/streak-stats)
